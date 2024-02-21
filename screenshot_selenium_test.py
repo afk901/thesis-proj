@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import time
-import cv2 as cv
 
 chrome_location = "./chrome/chrome.exe"
 chromedriver_location = "./chromedriver/chromedriver.exe"
